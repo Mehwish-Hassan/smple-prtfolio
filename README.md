@@ -34,23 +34,22 @@ To use this portfolio template for your own needs:
    
 1. **Customize the content:**
 
-- .Update the profile information in the HTML file.
-- .Replace placeholder images with your own in the "assets/pictures" directory.
-- .Modify the CSS in "style.css" to match your preferences.
+- Update the profile information in the HTML file.
+- Replace placeholder images with your own in the "assets/pictures" directory.
+- Modify the CSS in "style.css" to match your preferences.
 2. **Update the navigation links in the navbar and sections to reflect your content.**
 
-3. **Add your projects and adjust the "Recent Work" section.
-**
+3. **Add your projects and adjust the "Recent Work" section.**
 4. **Personalize the testimonials with your own client feedback.**
 
 ## Technologies Used
-- .HTML5
-- .CSS3
-- .Bootstrap 5.3.1
-- .Font Awesome 6.4.2
+- HTML5
+- CSS3
+- Bootstrap 5.3.1
+- Font Awesome 6.4.2
 
-**How to Run**
+## How to Run
 To view the portfolio, simply open the index.html file in a web browser.
 
-**Contributing**
+## Contributing
 If you'd like to contribute, please fork the repository and create a pull request. Issues and suggestions are also welcome!
